@@ -5,24 +5,18 @@ order: 5
 ---
 
 # Summary
-My name is David Vasilev and I am currently a senior at Del Norte High School, taking the AP CSA class. I am hoping to major in Physics and pursue a career path that is focused on physics, either as an engineer or a researcher.
-
-![aboutMe](/assets/img/post_images/aboutMe.png)
+My name is Tanisha Patil and I am a junior at Del Norte High School, currently in the AP CSA class. I want to pursue computer science, specifically in the field of artificial intelligence. 
 
 ## Hobbies
 
 Some things that I like to do outside of school include:
 
-- Photography
-- Music Production
-- Mountain Biking
-- Video Games
-- Web Development
+- Data Analysis and ML 
+- Field Hockey 
+- Music 
+- 
 
-## Interests
-I have many interests including:
+## Music and TV I Like
+You can tell a lot about a person based off of the media they consume... here's a cake to visualize that
 
-- Physics
-- Biology
-- Computer Science
-- Mathematics
+![aboutMe](/assets/img/aboutMe.png)
